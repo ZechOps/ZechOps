@@ -23,5 +23,5 @@
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZechOps)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZechOps"/>
+<img height="196em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZechOps"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZechOps&theme=github"/>
